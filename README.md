@@ -2,9 +2,7 @@
 # 📊 Projeto Unificado - Fase 3: Análise de Engajamento de Mídias Globo com Estruturas de Dados
 
 ## 👥 Integrantes
-- Pierre  
-- Maria  
-- Beatriz  
+- Pierre
 - Nando  
 
 ## 🎯 Objetivo
